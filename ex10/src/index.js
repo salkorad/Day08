@@ -11,7 +11,6 @@ function mathTest(x, y) {
         
     }
     
-<<<<<<< HEAD
     console.log(mathTest(2,2));
     console.log(mathTest(2,2));
     console.log(mathTest(-2,2));
@@ -21,16 +20,3 @@ function mathTest(x, y) {
     console.log(mathTest(0,0));
     
     module.exports = mathTest;
-=======
-}
-
-console.log(mathTest(2,2));
-console.log(mathTest(2,2));
-console.log(mathTest(-2,2));
-console.log(mathTest(-2,2));
-console.log(mathTest(2,8));
-console.log(mathTest(3,3));
-console.log(mathTest(0,0));
-
-module.exports = mathTest;
->>>>>>> 165f61d0b277ff08cce77c228b61006d68eb9a56
