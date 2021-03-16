@@ -11,12 +11,14 @@ function mathTest(x, y) {
     
 }
 mathTest(2,2);
+mathTest(2,2);
 mathTest(-2,2);
 mathTest(2,-2);
 mathTest(2,8);
 mathTest(3,3);
 mathTest(0,0);
 
+console.log(mathTest(2,2));
 console.log(mathTest(2,2));
 console.log(mathTest(-2,2));
 console.log(mathTest(-2,2));
